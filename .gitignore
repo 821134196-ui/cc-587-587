@@ -13,3 +13,11 @@ build/
 轨迹/
 录屏/
 视频/
+
+# PHP / Laravel
+vendor/
+*.sqlite
+backend/storage/*.key
+
+# 前端构建
+frontend/dist/
